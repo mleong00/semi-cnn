@@ -1,10 +1,15 @@
-### Semi-CNN Models:
+### Semi-CNN Models (PyTorch):
 
 1. Semi-C3D
 2. Semi-ResNet
 3. Semi-DenseNet
 
+___
 
+#### Demo:
+1. To create base model and load pre-trained weights, run `python base_models.py` 
+2. To use Semi-CNN model, run `python model_semicnn.py` 
+___
 
 If you use these models in your research, please cite:
 ```
